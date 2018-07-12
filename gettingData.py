@@ -1,6 +1,6 @@
 def get_records():
     """ Get paths for data in data/mit/ directory """
-    # Download if doesn't exist
+    #Download if doesn't exist
     
     # There are 3 files for each record
     # *.atr is one of them
