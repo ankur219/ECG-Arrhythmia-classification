@@ -18,6 +18,6 @@ Other details of deploying the model are given in the above mentioned repository
 ![alt text](https://cdn-images-1.medium.com/max/1400/1*DbcZlDPIfRYLZknTrjcJLw.png)
 
 ## Medium Blog
-Link to my Medium post is over here: https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67
+You can find all the details of this project on my Medium post. Link to my Medium post is over here: https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67
 
 
