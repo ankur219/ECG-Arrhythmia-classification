@@ -14,9 +14,10 @@ I will soon provide the link to the model's weights.
 Once you have the model's weights you can provide the path to the model in app.py. You will need to clone this repository: https://github.com/mtobeiyf/keras-flask-deploy-webapp and replace the app.py in this repository with the app.py from my repository.
 Other details of deploying the model are given in the above mentioned repository.
 
+## Here is a screenshot of the app from my system
+![alt text](https://cdn-images-1.medium.com/max/1400/1*DbcZlDPIfRYLZknTrjcJLw.png)
+
 ## Medium Blog
 Link to my Medium post is over here: https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67
 
-Here is a screenshot of the app from my system
-![alt text](https://cdn-images-1.medium.com/max/1400/1*DbcZlDPIfRYLZknTrjcJLw.png)
 
