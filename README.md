@@ -8,8 +8,7 @@ I have implemented this paper https://arxiv.org/pdf/1804.06812.pdf in which we c
 ![alt text](https://cdn-images-1.medium.com/max/1000/1*3SGHOVg_ycSOH-NN6OI8Tg.png)
 
 ## MODEL
-I will soon provide the link to the model's weights.
-
+Here is the link to the model: https://drive.google.com/open?id=1aFKVKz41A9fu8dX2KfwlEGV8vz9ljiuZ
 ## Deploying the model
 Once you have the model's weights you can provide the path to the model in app.py. You will need to clone this repository: https://github.com/mtobeiyf/keras-flask-deploy-webapp and replace the app.py in this repository with the app.py from my repository.
 Other details of deploying the model are given in the above mentioned repository.
