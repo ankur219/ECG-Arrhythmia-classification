@@ -10,8 +10,13 @@ I have implemented this paper https://arxiv.org/pdf/1804.06812.pdf in which we c
 ## MODEL
 Here is the link to the model: https://drive.google.com/open?id=1aFKVKz41A9fu8dX2KfwlEGV8vz9ljiuZ
 ## Deploying the model
-Once you have the model's weights you can provide the path to the model in app.py. You will need to clone this repository: https://github.com/mtobeiyf/keras-flask-deploy-webapp and replace the app.py in this repository with the app.py from my repository.
-Other details of deploying the model are given in the above mentioned repository.
+1. Clone my repository.
+2. Clone this https://github.com/mtobeiyf/keras-flask-deploy-webapp repository. 
+3. Download the weights.
+4. Replace app.py in the other repository you have downloaded with the app.py from my repository.
+5. Replace index.html as well that is present in the other repository with the index.html that is provided in my repo. index.html in present in the "templates" folder of the repository.
+
+If you face any other problem related to deploying you can check https://github.com/mtobeiyf/keras-flask-deploy-webapp repository.
 
 ## Here is a screenshot of the app from my system
 ![alt text](https://cdn-images-1.medium.com/max/1400/1*DbcZlDPIfRYLZknTrjcJLw.png)
