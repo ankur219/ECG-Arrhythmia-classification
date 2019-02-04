@@ -18,6 +18,8 @@ Here is the link to the model: https://drive.google.com/open?id=1aFKVKz41A9fu8dX
 
 If you face any other problem related to deploying you can check https://github.com/mtobeiyf/keras-flask-deploy-webapp repository.
 
+The model works only if your data is similar to # sample.csv
+
 ## Here is a screenshot of the app from my system
 ![alt text](https://cdn-images-1.medium.com/max/1400/1*DbcZlDPIfRYLZknTrjcJLw.png)
 
