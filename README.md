@@ -18,7 +18,7 @@ Here is the link to the model: [Link](https://drive.google.com/open?id=1aFKVKz41
 5. Replace index.html as well that is present in the other repository with the [index.html](https://github.com/ankur219/ECG-Arrhythmia-classification/blob/master/index.html) that is provided in my repo.
 If you face any other problem related to deploying you can check this [repository](https://github.com/mtobeiyf/keras-flask-deploy-webapp).
 
-The model works only if your data is similar to sample.csv
+The model works only if your data is similar to [sample.csv](https://github.com/ankur219/ECG-Arrhythmia-classification/blob/master/sample.csv)
 
 ## Here is a screenshot of the app from my system
 ![alt text](https://cdn-images-1.medium.com/max/1400/1*DbcZlDPIfRYLZknTrjcJLw.png)
