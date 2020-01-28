@@ -24,6 +24,6 @@ The model works only if your data is similar to [sample.csv](https://github.com/
 ![alt text](https://cdn-images-1.medium.com/max/1400/1*DbcZlDPIfRYLZknTrjcJLw.png)
 
 ## Medium Blog
-You can find all the details of this project on my [Medium post](https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67). You can find the procedure to train your own model in the blog. 
+You can find all the procedures regarding training your own model and other details of this project on my [Medium post](https://medium.com/datadriveninvestor/ecg-arrhythmia-classification-using-a-2-d-convolutional-neural-network-33aa586bad67). 
 
 
