@@ -14,7 +14,7 @@ Here is the link to the model: [Link](https://drive.google.com/open?id=1aFKVKz41
 1. Clone my repository.
 2. Clone this [repository](https://github.com/mtobeiyf/keras-flask-deploy-webapp). 
 3. Download the weights.
-4. Replace app.py in the other repository you have downloaded with the app.py from my repository.
+4. Replace app.py in the other repository you have downloaded with the [app.py](https://github.com/ankur219/ECG-Arrhythmia-classification/blob/master/app.py) from my repository.
 5. Replace index.html as well that is present in the other repository with the index.html that is provided in my repo. index.html in present in the "templates" folder of the repository.
 
 If you face any other problem related to deploying you can check this [repository](https://github.com/mtobeiyf/keras-flask-deploy-webapp).
